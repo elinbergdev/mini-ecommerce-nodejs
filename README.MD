@@ -116,26 +116,6 @@ Example:
 curl http://localhost:3000/api/products/1 -H "user-id: 123"
 ```
 
-## Redis Commands
-
-Common Redis CLI commands for debugging:
-```bash
-# Access Redis CLI
-redis-cli
-
-# List all keys
-KEYS *
-
-# Get value for a key
-GET keyname
-
-# Delete all keys
-FLUSHALL
-
-# Monitor Redis commands in real-time
-MONITOR
-```
-
 Redis Server Management:
 ```bash
 # Stop Redis server
