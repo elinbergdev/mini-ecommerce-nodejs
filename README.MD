@@ -59,7 +59,7 @@ REDIS_PORT=6379
 
 ```
 src/
-├── models/
+├── model/
 │   └── Product.ts
 ├── services/
 │   ├── redisClient.ts
