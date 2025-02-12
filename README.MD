@@ -30,7 +30,7 @@ cd dynamic-pricing-api
 
 2. Install dependencies:
 ```bash
-npm install
+yarn install
 ```
 
 3. Install and Setup Redis on Mac:
